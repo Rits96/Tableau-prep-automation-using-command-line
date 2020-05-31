@@ -1,0 +1,24 @@
+{
+
+"inputConnections": [{
+"hostname": "localhost",
+"username": "root",
+"port":3306,
+"password": " "
+
+}],
+
+"outputConnections": [
+{
+
+    "serverUrl":"https://10ay.online.tableau.com",
+    "contentUrl":"sitename",
+    "username":"cannnotsay",
+    "password":"secret"
+  
+}
+]
+
+}
+
+ 

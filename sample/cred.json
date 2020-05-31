@@ -1,0 +1,15 @@
+{
+
+"inputConnections": [{
+"hostname": "localhost",
+"username": "root",
+"port":3306,
+"password": " "
+
+}],
+
+"outputConnections": []
+
+}
+
+ 
